@@ -1,3 +1,6 @@
 console.log('hi')
 console.log('buy-buy')
 console.log('курлы')
+console.log('hi')
+console.log('buy-buy')
+console.log('курлы')
